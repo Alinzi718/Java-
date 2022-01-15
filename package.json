@@ -19,7 +19,7 @@
     "gulp-zip": "^4.1.0",
     "pretty-bytes": "^4.0.2",
     "run-sequence": "^2.2.1",
-    "shelljs": "^0.8.1"
+    "shelljs": "^0.8.5"
   },
   "scripts": {
     "watch": "gulp watch",

@@ -4,7 +4,7 @@
   "description": "chrome extension",
   "main": "index.js",
   "dependencies": {
-    "sign-addon": "^0.3.1"
+    "sign-addon": "^5.2.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
